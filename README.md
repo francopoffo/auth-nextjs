@@ -1,7 +1,7 @@
 # About
 
-This project was made to practice authentication with Next.js.
-As said, this is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This project was made to practice authentication with [Next.js](https://nextjs.org/).
+It is project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## How to run the project
 
